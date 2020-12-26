@@ -1,0 +1,18 @@
+channels:
+  - conda-forge
+  - bioconda
+  - intel
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - bokeh
+  - seaborn
+  - bedops
+  - bedtools
+  - bcftools
+  - plotly
+  - scikit-learn
+  - nodejs
+  - argparse
+  - pysam
