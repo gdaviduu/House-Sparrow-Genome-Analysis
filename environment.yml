@@ -1,20 +1,12 @@
-name: jupyterlab
-channels:
-  - conda-forge
-  - bioconda
-  - defaults
-dependencies:
-  - bcftools=1.8=h4da6232_3
-  - bedops=2.4.39=h770b8ee_0
-  - bedtools=2.29.2=h37cfd92_0
-  - matplotlib=3.3.3=py37hf985489_0
-  - matplotlib-base=3.3.3=py37hdacc966_0
-  - numpy=1.19.4=py37h9ebeaaa_1
-  - pandas=1.1.5=py37h010c265_0
-  - plotly=4.14.1=pyhd3deb0d_0
-  - samtools=1.4.1=0
-  - scikit-learn=0.23.2=py37ha0250bc_3
-  - scipy=1.5.3=py37h821cff1_0
-  - seaborn=0.11.0=h694c41f_1
-  - seaborn-base=0.11.0=pyhd8ed1ab_1
-  - yaml=0.2.5=haf1e3a3_0
+bcftools==1.8
+bedops==2.4.39
+bedtools==2.29.2
+matplotlib==3.3.3
+numpy==1.19.4
+pandas==1.1.5
+plotly==4.14.1
+samtools==1.4.1
+scikit-learn==0.23.2
+scipy==1.5.3
+seaborn==0.11.0
+yaml==0.2.5
