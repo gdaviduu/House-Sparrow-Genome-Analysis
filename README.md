@@ -1,4 +1,4 @@
-# ***Genomic Landscape of Strutural Variation in ***Passer domesticus******
+# ***Genomic Landscape of Structural Variation in ***Passer domesticus******
 
 JupyterNotebooks for executing all steps from extracting curated variants from the raw PlotCritic report, to final plotting in Python3. 
 
