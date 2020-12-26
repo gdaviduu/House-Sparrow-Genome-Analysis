@@ -15,3 +15,4 @@ dependencies:
   - bcftools
   - plotly
   - scikit-learn
+  - nodejs
