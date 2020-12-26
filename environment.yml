@@ -1,0 +1,14 @@
+name: ExtractPCA
+
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - bokeh
+  - seaborn
+  - bedops
+  - bedtools
+  - bcftools
