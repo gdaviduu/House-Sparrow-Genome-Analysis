@@ -12,4 +12,4 @@ dependencies:
   - bedops
   - bedtools
   - bcftools
-  - plotly	
+  - plotly
