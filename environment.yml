@@ -3,6 +3,7 @@ name: ExtractPCA
 channels:
   - conda-forge
   - bioconda
+  - intel
 dependencies:
   - numpy
   - matplotlib
@@ -13,3 +14,4 @@ dependencies:
   - bedtools
   - bcftools
   - plotly
+  - scikit-learn
