@@ -1,6 +1,6 @@
 # ***Genomic Landscape of Structural Variation in ***Passer domesticus******
 
-JupyterNotebooks for executing all steps from extracting curated variants from the raw PlotCritic report, to final plotting in Python3. 
+JupyterNotebooks for executing all steps from extracting curated variants from raw PlotCritic reports, to final plotting in Python3. 
 
 ***Notebook #1: Intersecting and plotting a PCA for all Deletions that were given "Yes" by all four curators.***
 
