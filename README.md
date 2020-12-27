@@ -9,7 +9,7 @@ Click to open the Binder for ***Notebook #1***
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdaviduu/House-Sparrow-Genome-Analysis.git/main?filepath=Extract_Curated_SV_Regions_to_PlotPCA_Yes_intersectallcurators.ipynb)
 
 
-***Notebook #2: Intersecting and plotting a PCA for all Deletions that were given either "Yes" or "Maybe" by all four curators, in addition to plotting all of the remaining SVs that were rejected (given "No") by all four curators.***
+***Notebook #2: Intersecting and plotting a PCA for all Deletions that were given either "Yes" or "Maybe" by all four curators; plotting all of the remaining SVs that were rejected (given "No") by all four curators; and plotting all raw Uncurated Deletions.***
 
 Click to open the Binder for ***Notebook #2***
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdaviduu/House-Sparrow-Genome-Analysis.git/main?filepath=Extract_SV_regions_YesMaybe_intersectall.ipynb)
