@@ -9,7 +9,7 @@ Structural variant calling and genotyping with [Smoove](https://github.com/brent
 ***Intermediate steps needed prior to visual curation***
 JupyterNotebook for: 
 1. Randomly selecting 3 individuals of each genotype (HOM_REF, HET, HOM_ALT) for
-2. Generating the Samplot images (.png) for PlotCritic
+2. Generating the Samplot images (.png) for PlotCritic.
 
 ***Snakefile #3:***
 Setting up a project in PlotCritic for visual curation, using SV-Plaudit on an Amazon Instance
