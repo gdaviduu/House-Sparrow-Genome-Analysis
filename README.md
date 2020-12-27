@@ -18,16 +18,16 @@ Setting up a project in PlotCritic for visual curation, using SV-Plaudit on an A
 ***Data Exploration:*** JupyterNotebooks for executing all steps, from extracting curated variants from raw PlotCritic reports to final plotting in Python3. These need to be run in the order presented below.
 
 
-***Notebook #1: Intersecting and plotting a PCA for all Deletions that were given "Yes" by all four curators.***
+***Notebook #1, Part 1.: Intersecting and plotting a PCA for all Deletions that were given "Yes" by all four curators.***
 
 Click to open
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdaviduu/House-Sparrow-Genome-Analysis.git/main?filepath=Extract_Curated_SV_Regions_to_PlotPCA_Yes_intersectallcurators.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdaviduu/House-Sparrow-Genome-Analysis.git/main?filepath=Extract_SV_regions_PCA_Part1to4.ipynb)
 
 
-***Notebook #2: Intersecting and plotting a PCA for all Deletions that were given either "Yes" or "Maybe" by all four curators; plotting all of the remaining SVs that were rejected by all four curators; and plotting all raw Uncurated Deletions.***
+***Notebook #1, Parts 2. to 4.: Intersecting and plotting a PCA for all Deletions that were given either "Yes" or "Maybe" by all four curators; plotting all of the remaining SVs that were rejected by all four curators; and plotting all raw Uncurated Deletions.***
 
 Click to open
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdaviduu/House-Sparrow-Genome-Analysis.git/main?filepath=Extract_SV_regions_YesMaybe_intersectall.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdaviduu/House-Sparrow-Genome-Analysis.git/main?filepath=Extract_SV_regions_PCA_Part1to4.ipynb)
 
 
 ***Notebook #3: Plotting Size Histograms for SVs***
