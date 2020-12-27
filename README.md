@@ -4,7 +4,7 @@
 BWA alignment and GATK pipeline
 
 ***Snakefile #2:***
-Structural variant calling Smoove https://github.com/brentp/smoove 
+Structural variant calling and genotyping Smoove https://github.com/brentp/smoove 
 
 ***Intermediate steps needed prior to visual curation***
 JupyterNotebook for: 
@@ -15,9 +15,7 @@ JupyterNotebook for:
 Visual curation in PlotCritic, using SV-Plaudit on an Amazon Instance
 
 
-***Data Exploration***
-
-JupyterNotebooks for executing all steps from extracting curated variants from raw PlotCritic reports, to final plotting in Python3. 
+***Data Exploration:*** JupyterNotebooks for executing all steps from extracting curated variants from raw PlotCritic reports, to final plotting in Python3. 
 
 
 ***Notebook #1: Intersecting and plotting a PCA for all Deletions that were given "Yes" by all four curators.***
