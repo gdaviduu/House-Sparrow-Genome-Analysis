@@ -1,5 +1,20 @@
 # ***Genomic Landscape of Structural Variation in ***Passer domesticus******
 
+***Snakefile #1:***
+BWA alignment and GATK pipeline
+
+***Snakefile #2:***
+Structural variant calling Smoove https://github.com/brentp/smoove 
+
+***Intermediate steps needed prior to visual curation***
+JupyterNotebook for: 
+1. Randomly selecting 3 individuals of each genotype (HOM_REF, HET, HOM_ALT) for
+2. Generating the Samplot images (.png) for PlotCritic
+
+***Snakefile #3:***
+Visual curation in PlotCritic, using SV-Plaudit on an Amazon Instance
+
+***Data Exploration***
 JupyterNotebooks for executing all steps from extracting curated variants from raw PlotCritic reports, to final plotting in Python3. 
 
 
