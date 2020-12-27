@@ -12,7 +12,7 @@ JupyterNotebook for:
 2. Generating the Samplot images (.png) for PlotCritic
 
 ***Snakefile #3:***
-Visual curation in PlotCritic, using SV-Plaudit on an Amazon Instance
+Setting up a project in PlotCritic for visual curation, using SV-Plaudit on an Amazon Instance
 
 
 ***Data Exploration:*** JupyterNotebooks for executing all steps from extracting curated variants from raw PlotCritic reports, to final plotting in Python3. 
