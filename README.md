@@ -14,7 +14,9 @@ JupyterNotebook for:
 ***Snakefile #3:***
 Visual curation in PlotCritic, using SV-Plaudit on an Amazon Instance
 
+
 ***Data Exploration***
+
 JupyterNotebooks for executing all steps from extracting curated variants from raw PlotCritic reports, to final plotting in Python3. 
 
 
