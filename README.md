@@ -35,7 +35,7 @@ Click to open ***Notebook #2***
 Click to open ***Notebook #3***
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdaviduu/House-Sparrow-Genome-Analysis.git/main?filepath=Plotting_Size_Histograms_for_SVs.ipynb)
 
-***Notebook #4: Downsampling SNPs in PLINK and plotting PCAs to compare to similarly-sized SV-callsetss***
+***Notebook #4: Downsampling SNPs in PLINK and plotting PCAs to compare to similarly-sized SV-callsets***
 
 Click to open ***Notebook #4***
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdaviduu/House-Sparrow-Genome-Analysis.git/main?filepath=Plotting_PCA_for_Downsampled_SNPs.ipynb)
