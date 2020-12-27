@@ -4,7 +4,7 @@
 BWA alignment and GATK pipeline
 
 ***Snakefile #2:***
-Structural variant calling and genotyping [Smoove] (https://github.com/brentp/smoove)
+Structural variant calling and genotyping [Smoove](https://github.com/brentp/smoove)
 
 ***Intermediate steps needed prior to visual curation***
 JupyterNotebook for: 
