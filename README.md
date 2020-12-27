@@ -15,7 +15,7 @@ JupyterNotebook for:
 Setting up a project in PlotCritic for visual curation, using SV-Plaudit on an Amazon Instance
 
 
-***Data Exploration:*** JupyterNotebooks for executing all steps from extracting curated variants from raw PlotCritic reports, to final plotting in Python3. These need to be run in the order presented below.
+***Data Exploration:*** JupyterNotebooks for executing all steps, from extracting curated variants from raw PlotCritic reports to final plotting in Python3. These need to be run in the order presented below.
 
 
 ***Notebook #1: Intersecting and plotting a PCA for all Deletions that were given "Yes" by all four curators.***
