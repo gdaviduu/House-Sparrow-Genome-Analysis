@@ -12,3 +12,8 @@ Click to open the Binder for ***Notebook #1***
 Click to open the Binder for ***Notebook #2***
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdaviduu/House-Sparrow-Genome-Analysis.git/main?filepath=Extract_SV_regions_YesMaybe_intersectall.ipynb)
 
+***Notebook #3: Plotting Size Histograms for SVs***
+
+Click to open the Binder for ***Notebook #3***
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdaviduu/House-Sparrow-Genome-Analysis.git/main?filepath=
+Plotting_Size_Histograms_for_SVs.ipynb
