@@ -2,7 +2,6 @@ channels:
   - conda-forge
   - bioconda
   - intel
-  - r
 dependencies:
   - numpy
   - matplotlib
@@ -16,5 +15,3 @@ dependencies:
   - scikit-learn
   - nodejs
   - pysam
-  - plink
-  - r-irkernel
