@@ -7,6 +7,7 @@ BWA alignment and GATK pipeline
 Structural variant calling and genotyping with `smoove`[(more here)](https://github.com/brentp/smoove)
 
 ***Intermediate steps needed prior to visual curation.***
+
 JupyterNotebook for: 
 Randomly selecting 3 individuals of each genotype (HOM_REF, HET, HOM_ALT) with `gen_samplot.py` for generating the Samplot images (.png) for PlotCritic
 
