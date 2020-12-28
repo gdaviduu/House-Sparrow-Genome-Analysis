@@ -40,7 +40,7 @@ Click to open
 Click to open
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdaviduu/House-Sparrow-Genome-Analysis.git/main?filepath=Plotting_PCA_for_Downsampled_SNPs.ipynb)
 
-Click to open annofix.ipynb
+Click to open `annofix.ipynb`
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdaviduu/House-Sparrow-Genome-Analysis.git/main?filepath=annofix.ipynb)
 
 
