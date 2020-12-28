@@ -15,7 +15,7 @@ JupyterNotebook for:
 Setting up a project in PlotCritic for visual curation, using SV-Plaudit on an Amazon Instance
 
 
-## ***Data Exploration:*** 
+## ***Data Exploration*** 
 JupyterNotebooks for executing all steps, from extracting curated variants from raw PlotCritic reports to final plotting in Python3. These need to be run in the order presented below.
 
 
@@ -41,6 +41,7 @@ Click to open
 Click to open
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdaviduu/House-Sparrow-Genome-Analysis.git/main?filepath=Plotting_PCA_for_Downsampled_SNPs.ipynb)
 
+Extra: replace names in annotation.gff file
 Click to open `annofix.ipynb`
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdaviduu/House-Sparrow-Genome-Analysis.git/main?filepath=annofix.ipynb)
 
