@@ -8,7 +8,7 @@ Structural variant calling and genotyping with [Smoove](https://github.com/brent
 
 ***Intermediate steps needed prior to visual curation.***
 JupyterNotebook for: 
-1. Randomly selecting 3 individuals of each genotype (HOM_REF, HET, HOM_ALT) with <pre>gen_samplot.py</pre> for
+1. Randomly selecting 3 individuals of each genotype (HOM_REF, HET, HOM_ALT) with <code>gen_samplot.py<code> for
 2. Generating the Samplot images (.png) for PlotCritic.
 
 ***Snakefile #3:***
