@@ -31,12 +31,12 @@ Click to open
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdaviduu/House-Sparrow-Genome-Analysis.git/main?filepath=Extract_SV_regions_PCA_Part1to4.ipynb)
 
 
-***Notebook #3: Plotting Size Histograms for SVs***
+***Notebook #2: Plotting Size Histograms for SVs***
 
 Click to open
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdaviduu/House-Sparrow-Genome-Analysis.git/main?filepath=Plotting_Size_Histograms_for_SVs.ipynb)
 
-***Notebook #4: Downsampling SNPs in PLINK and plotting PCAs to compare to similarly-sized SV-callsets***
+***Notebook #3: Downsampling SNPs in PLINK and plotting PCAs to compare to similarly-sized SV-callsets***
 
 Click to open
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gdaviduu/House-Sparrow-Genome-Analysis.git/main?filepath=Plotting_PCA_for_Downsampled_SNPs.ipynb)
