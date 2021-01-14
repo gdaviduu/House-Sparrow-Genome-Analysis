@@ -16,3 +16,5 @@ dependencies:
   - nodejs
   - pysam
   - snpeff
+  -r-essentials 
+  -r-base
