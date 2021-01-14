@@ -15,3 +15,5 @@ dependencies:
   - scikit-learn
   - nodejs
   - pysam
+  - r-base=3.6
+  - r-tidyverse
