@@ -1,5 +1,7 @@
 # ***Genomic Landscape of Structural Variation in *Passer domesticus****
 
+## ***Structural Variant Calling and Visual Curation*** 
+
 ***Snakefile #1:***
 BWA alignment and GATK pipeline
 
